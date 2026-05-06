@@ -51,11 +51,11 @@
 
 ### 🔥 Daily Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=shashikant32\&theme=dark)
+![](https://streak-stats.demolab.com?user=shashikant32&theme=dark&hide_border=false)
 
 ### 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant32\&layout=compact\&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant32&layout=compact&theme=dark)
 
 ---
 
