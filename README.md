@@ -1,47 +1,174 @@
-## Hi i'm Shashikant Singh 👋
+## Hi, I'm Shashikant Singh 👋
+
 🚀 Backend Engineer | PHP Developer | API Specialist
-💼 Freelance Developer – Open for Projects
-
-# 💫 About Me:
-· Software Engineer | PHP Developer | Backend & APIs | Databases
-· Always learning & exploring new technologies.
-. I build secure, scalable backend systems & REST APIs
-. 💡 Strong in PHP, MySQL, API Development & Optimization
-. ⚡ Focused on performance, clean architecture & real-world solutions
-. 🌍 Working with clients as a freelance developer
-
-
-## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishashikantsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashikantkushwaha) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/shashikantsingh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shashikantji) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codershashi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashikant02674@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-# What I Can Do
-✅ Custom Backend Development
-✅ API Development & Integration
-✅ Database Design & Optimization
-✅ Bug Fixing & Performance Improvement
-
-# 📫 Connect With Me
-💼 Freelance: Available for work
-📧 Email: shashikant@codershashi.in
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shashikant32&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shashikant32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant32&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shashikant32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shashikant32&limit=5&theme=dark&combine_all_yearly_contributions=true)
+💼 Freelance Developer – Available for Projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shashikant32&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+* 💻 Backend Developer focused on **scalable & secure systems**
+* 🔥 Specialized in **PHP, REST APIs, MySQL optimization**
+* ⚡ I build **fast, reliable & production-ready backend solutions**
+* 🌍 Working with clients as a freelance developer
+* 📈 Focused on performance, clean architecture & real-world solutions
+
+---
+
+# 🚀 What I Can Do
+
+✅ Custom Backend Development
+✅ REST API Development & Integration
+✅ Database Design & Optimization
+✅ Performance Optimization & Debugging
+✅ Third-party API Integration
+
+---
+
+# 💼 Why Hire Me?
+
+✔ Clean & maintainable code
+✔ Performance-focused development
+✔ Fast delivery & clear communication
+✔ Real-world problem solving approach
+✔ Long-term support
+
+---
+
+# 🛠 Tech Stack
+
+💡 PHP | JavaScript | Python | Java | C
+💡 CodeIgniter | Node.js
+💡 MySQL | PostgreSQL
+💡 HTML | CSS | Bootstrap | Tailwind | React
+💡 Git | GitHub | Firebase | Vercel
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=shashikant32\&show_icons=true\&theme=dark)
+
+### 🔥 Daily Streak
+
+![](https://nirzak-streak-stats.vercel.app/?user=shashikant32\&theme=dark)
+
+### 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant32\&layout=compact\&theme=dark)
+
+---
+
+# ⭐ GitHub Insights
+
+* ⭐ **Total Stars Earned:** ![](https://img.shields.io/github/stars/shashikant32?style=social)
+* 🚀 **Total Contributions:** ![](https://img.shields.io/github/commit-activity/y/shashikant32)
+* 📌 **Max Stars on Repo:** *(Add your best repo link here)*
+
+---
+
+# 📂 Featured Projects
+
+## 🚀 Scalable REST API System
+
+**Built a high-performance backend system handling large-scale API traffic**
+
+**💡 Problem**
+
+* High API load & slow response time
+* Need for secure & scalable architecture
+
+**⚙️ Solution**
+
+* Developed modular APIs using PHP (CodeIgniter)
+* Implemented JWT authentication
+* Optimized database queries & caching
+
+**📈 Result**
+
+* ⚡ 60% faster response time
+* 🚀 Handled 3x more traffic
+* 🔒 Secure production-ready system
+
+**🛠 Tech:** PHP, CodeIgniter, MySQL, REST API
+
+---
+
+## 💳 Payment Gateway Integration System
+
+**Developed a reliable and secure multi-payment backend system**
+
+**💡 Problem**
+
+* Payment failures & poor tracking
+* No centralized system
+
+**⚙️ Solution**
+
+* Integrated Razorpay / Stripe APIs
+* Implemented webhooks & logging system
+* Added retry & failure handling
+
+**📈 Result**
+
+* 💰 40% increase in successful payments
+* 📊 Improved transaction tracking
+* 🔁 Reduced failures significantly
+
+**🛠 Tech:** PHP, REST APIs, MySQL
+
+---
+
+## 📊 Database Optimization & Performance Boost
+
+**Optimized slow backend system for speed and efficiency**
+
+**💡 Problem**
+
+* 5–8 sec load time
+* Heavy DB load & inefficient queries
+
+**⚙️ Solution**
+
+* Query optimization & indexing
+* Reduced joins & implemented caching
+* Improved database structure
+
+**📈 Result**
+
+* ⚡ Load time < 2 sec
+* 📉 50% reduced server load
+* 🚀 Smooth performance
+
+**🛠 Tech:** MySQL, PHP
+
+---
+
+# 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=shashikant32\&theme=radical\&margin-w=5)
+
+---
+
+# 📫 Contact Me
+
+📧 Email: [shashikant@codershashi.in](mailto:shashikant@codershashi.in)
+
+---
+
+# 🌐 Connect With Me
+
+* Instagram: https://instagram.com/ishashikantsingh
+* LinkedIn: https://linkedin.com/in/shashikantkushwaha
+* YouTube: https://youtube.com/@codershashi
+* X: https://x.com/shashikantji
+
+---
+
+# 💬 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=shashikant32\&icon=9\&color=0)
