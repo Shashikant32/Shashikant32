@@ -47,7 +47,7 @@
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shashikant32&show_icons=true&theme=radical&cache_seconds=1800)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashikant32&show_icons=true&theme=radical)
 
 ### 🔥 Daily Streak
 
@@ -55,7 +55,7 @@
 
 ### 💻 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashikant32&layout=compact&theme=radical&cache_seconds=1800)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashikant32&layout=compact&theme=radical)
 
 ---
 
