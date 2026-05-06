@@ -63,7 +63,6 @@
 
 * ⭐ **Total Stars Earned:** ![](https://img.shields.io/github/stars/shashikant32?style=social)
 * 🚀 **Total Contributions:** ![](https://img.shields.io/github/commit-activity/y/shashikant32)
-* 📌 **Max Stars on Repo:** *(Add your best repo link here)*
 
 ---
 
@@ -158,8 +157,7 @@
 
 # 🌐 Connect With Me
 
-* Instagram: https://instagram.com/ishashikantsingh
-* LinkedIn: https://linkedin.com/in/shashikantkushwaha
+* LinkedIn: https://linkedin.com/in/shashikant-k
 * YouTube: https://youtube.com/@codershashi
 * X: https://x.com/shashikantji
 
