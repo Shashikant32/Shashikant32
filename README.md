@@ -45,17 +45,9 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashikant32&show_icons=true&theme=radical)
-
 ### 🔥 Daily Streak
 
 ![](https://streak-stats.demolab.com?user=shashikant32&theme=dark&hide_border=false)
-
-### 💻 Most Used Languages
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashikant32&layout=compact&theme=radical)
 
 ---
 
@@ -169,4 +161,4 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=shashikant32\&icon=9\&color=0)
+![](https://komarev.com/ghpvc/?username=shashikant32&color=blue&style=flat)
